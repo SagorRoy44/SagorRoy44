@@ -29,7 +29,7 @@ Published in **7th International Conference on Electrical Information and Commun
 - **Programming:** Python, C++, JavaScript  
 - **Machine Learning:** Regression, SVM, Random Forest, Feature Selection, SHAP  
 - **Bioinformatics:** Microarray Analysis, Differential Expression, GEO Data Processing  
-- **Web Development:** HTML, CSS, Bootstrap, Flask, Django  
+- **Web Development:** HTML, CSS, Bootstrap 
 - **IoT:** ESP32, Blynk, Sensors & Embedded Systems  
 - **Tools:** Git, SQL, Google Colab, Overleaf  
 
