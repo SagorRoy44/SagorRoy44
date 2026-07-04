@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sagor Roy
 
-🎓 4th-Year ICT Undergraduate at Mawlana Bhashani Science and Technology University (MBSTU)  
-📊 CGPA: 3.86 (till 7th semester)  
+🎓 Master's Student in the ICT department at Mawlana Bhashani Science and Technology University (MBSTU)  
+📊 CGPA: 3.88 out of 4.00 
 🔬 IEEE Conference Author | ML & Bioinformatics Researcher  
 
 ---
