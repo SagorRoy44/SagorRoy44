@@ -39,7 +39,7 @@ Published in **7th International Conference on Electrical Information and Commun
 
 - Advanced Machine Learning  
 - Computational Biology  
-- Research for Graduate Studies (MS/PhD – USA goal 🇺🇸)  
+- AI in Agriculture
 
 ---
 
